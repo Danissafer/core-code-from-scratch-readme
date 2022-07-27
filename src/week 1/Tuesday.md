@@ -1,33 +1,12 @@
-<html>
-    <body>
-        <h1>Tuesday 07.19.22 </h1>
+# Tuesday 07.19.22 
+## 1. Interpreted and Compiled Language 
 
-</h2>
-
-### Interpreted Language
-This language re
-
-### Compiled Language 
+An **Interpreted Language** is a language that can execute instructions line by line, meaning that doesn't need to compile all the information to start runing the program. One of the benefits of this type of code is that if there's an error with the code it can be fixed without having to re-write the whole thing. 
+One of the disadvantages of this language is that is not as fast as a compiled language.
 
 
-A few benefits can include that once it's compiled:  
-<ul>
-    <li>It runs faster.  </li>
-    <li></li>
-
-</ul>
-
-<h2> 2 </h2>
-
-| Programing Languages | |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-<h2> 3 </h2>
+A **Compiled Language** is as the word says, compiled or put together first and then converted in computer code so the processor can excecute it. 
+Reason why one of the benefits of this type of language is because it's faster as its sent alltogether, however, for the same reason one of the disadvantages is that if the code is compiled incorrectly, the code would have to be re-written to run it again. 
 
 
-<h2> 4 </h2>
 
-
-</html>
