@@ -13,7 +13,17 @@ I think Java is both languages as it's first compiled to binary byte code, and t
 
 
 ## 3. Pseudocode currency converter
+<! --  -->
+```
 
+1. START
+2. USD 
+3.
+4.
+5. 
+6. 
+
+```
 
 
 ## 4. 
