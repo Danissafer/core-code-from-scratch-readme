@@ -30,6 +30,6 @@ I think Java is both languages as it's first compiled to binary byte code, and t
 
 [Video Source](https://www.youtube.com/watch?v=bUWCD45qniA)
 
-A **High** level language is 
+A **High** level language is an user-oriented language that it was created for a programmer to write computer programs and interact with the computer system without really knowing the program where the code will run on. 
 
-A **Low** level language is 
+A **Low** level programing language has a 1:1 relationship with the processor instructions, they give a programmer  control over how a program is executed, allowing to run efficient programs. 
