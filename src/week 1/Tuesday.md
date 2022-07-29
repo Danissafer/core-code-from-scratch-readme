@@ -13,17 +13,23 @@ I think Java is both languages as it's first compiled to binary byte code, and t
 
 
 ## 3. Pseudocode currency converter
-<! --  -->
+
 ```
 
 1. START
-2. USD 
-3.
-4.
-5. 
-6. 
+2. USD <-- GET
+3. BTCprice <-- 0.000044
+4. SUM <-- USD * BTCPrice
+5. PRINT SUM
+6. END
 
 ```
 
 
-## 4. 
+## 4. High and Low level languages 
+
+[Video Source](https://www.youtube.com/watch?v=bUWCD45qniA)
+
+A **High** level language is 
+
+A **Low** level language is 
