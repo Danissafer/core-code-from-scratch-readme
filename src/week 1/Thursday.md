@@ -2,7 +2,7 @@
 
 ## Print Special Numbers
 
-```
+```assembly
 for (let i = 0; i < 100; i++) {
   if(i%2 == 0){
     console.log(i)
@@ -14,7 +14,7 @@ for (let i = 0; i < 100; i++) {
 
 The code to correct is:
 
-```
+```assembly
 var cond = false;
 
 if ((cond = true)) {
@@ -25,7 +25,7 @@ if ((cond = true)) {
 ```
 
 Corrected code: 
-```
+```assembly
 var cond = false;
 
 if ((cond == true)) {
@@ -39,7 +39,7 @@ if ((cond == true)) {
 
 This is the code to correct: 
 
-```
+```assembly
 var n = 100;
 
 if (n == 100) {
@@ -57,5 +57,5 @@ if (n % 10 == 0) {
 
 Corrected code: 
 
-```
+```assembly
 ```
