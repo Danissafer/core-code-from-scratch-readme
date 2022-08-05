@@ -39,7 +39,7 @@ if ((cond == true)) {
 
 This is the code to correct: 
 
-```assembly
+```js script
 var n = 100;
 
 if (n == 100) {
@@ -57,5 +57,5 @@ if (n % 10 == 0) {
 
 Corrected code: 
 
-```assembly
+```js script
 ```
